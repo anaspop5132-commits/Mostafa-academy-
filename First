@@ -1,0 +1,7 @@
+mostafa-arabic-academy
+│
+├── client
+├── server
+├── README.md
+├── package.json
+└── .gitignore
