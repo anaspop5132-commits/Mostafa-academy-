@@ -1,0 +1,12 @@
+client
+│
+├── app
+├── components
+├── public
+├── styles
+├── lib
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── next.config.js
+└── tsconfig.json
