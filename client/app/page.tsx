@@ -26,14 +26,14 @@ export default function HomePage() {
           </p>
 
           <div className="flex gap-4 mt-10">
-            <button className="bg-yellow-500 text-black px-8 py-4 rounded-2xl font-bold">
-              تسجيل الدخول
-            </button>
+  <button className="bg-yellow-500 text-black px-8 py-4 rounded-2xl font-bold">
+    تسجيل الدخول
+  </button>
 
-            <button className="border border-white px-8 py-4 rounded-2xl">
-              إنشاء حساب
-            </button>
-          </div>
+  <button className="border border-white text-white px-8 py-4 rounded-2xl font-bold hover:bg-white hover:text-black transition-colors">
+    إنشاء حساب
+  </button>
+</div>
         </motion.div>
 
         <motion.div
